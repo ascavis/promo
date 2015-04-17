@@ -17,6 +17,7 @@ Fascinate people about asteroids and indicate how ascavis helps to study them.
   improvised nature of the text.
 - Storyboard uses lots of (hopefully) publically available imagery/video
   footage that has to be obtained.
+- The website is still missing the page 'More about astroids' - maybe we can coordinate with the science here.
 
 
 # Storyboard
@@ -24,6 +25,7 @@ Fascinate people about asteroids and indicate how ascavis helps to study them.
 - Logo
     - Animated Ascavis project logo
     - Subtitle: Helping to understand asteroids
+	- Hackathon date and logo, lab75 logo?, Ascavis ausschreiben?
 - Asteroids
     - Image/Video: asteroid flies by, hover over asteroid photo (Rosetta?)
     - Voice: Our solar system harbours millions of asteroids. On first sight an
@@ -56,10 +58,10 @@ Fascinate people about asteroids and indicate how ascavis helps to study them.
       SpaceAppsChallenge.
 - Spitzer & WISE
     - Image: in sequence Spitzer, WISE space telescopes
-    - Voice: From space missions such as Spitzer and WISE data about asteroids
-      is already publically available.
+    - Voice: From space missions such as Spitzer and WISE, data about asteroids
+      is already publicly available.
 - Data acquisition
-    - Video: Team from outside interview/discussing
+    - Video: Team from outside interview/discussing (show UI / someone using it?)
     - Voice: Ascavis brings this data together and makes it accessible for
       everyone.
 - Hobby astronomers
@@ -89,3 +91,10 @@ Norbert intro: INT07 0:07 - 0:22
 Tobias intro: INT07 0:26 - 0:44
 Ute intro: INT09 0:42 - 1:00
 Katja intro: INT09 1:10 - 1:23
+
+# What I miss (Katja)
+The UI is not shown, or did I miss something?
+Bin nicht sicher, ob 
+'Our goal is to eventually use all this data to learn more about yet unknown asteroids.' 
+stimmt..?
+Ansonsten, guter Text. :)

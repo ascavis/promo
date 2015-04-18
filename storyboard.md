@@ -28,28 +28,16 @@ Fascinate people about asteroids and indicate how ascavis helps to study them.
 	- Hackathon date and logo, lab75 logo?, Ascavis ausschreiben?
 - Asteroids
     - Image/Video: asteroid flies by, hover over asteroid photo (Rosetta?)
-    - Voice: Our solar system harbours millions of asteroids. On first sight an
-      asteroid might just be a pile of rock in space.
-- Team discovering stuff
-    - Video: People looking at screens, i.e. discovering
-    - Voice: But if you look closer, there's much more to discover.
+    - Voice: Our solar system harbours millions of asteroids.
 - Planet formation
     - Image/Video: some picture of the planet formation/early solar system
     - Voice: Asteroids are the remnant debris of the planet formation processes
       in the early solar system. They have affected Earth's evolution in the
-      past and will continue to do so in the future. This makes them
-      interesting objects for scientific research.
+      past and will continue to do so in the future.
 - Asteroid mining
     - Image/Video: asteroid (ideally some mining operations)
-    - Voice: Many of them are very rich in minerals. A few companies have
-      already begun to plan mining operations on asteroids in near-Earth orbit.
-      Asteroid mining could have a profound economical impact on both space
-      travel and life on Earth.
-- Hazardous objects
-    - Image/Video: catastrophic impact or the threat of one
-    - Voice: However, asteroids also pose a potential threat for humanity.
-      There is a remote possibility that a large asteroid impacts Earth with
-      devastating consequences.
+    - Voice: Asteroid mining could have a profound economical impact on both
+      space travel and life on Earth.
 - Lack of categorization
     - Video: Team working (incl. view on web app)
     - Voice: Yet only a fraction of asteroids have been successfully
@@ -66,13 +54,8 @@ Fascinate people about asteroids and indicate how ascavis helps to study them.
       everyone.
 - Hobby astronomers
     - Video: People working on computer
-    - Voice: Hobby astronomers also contribute valuable observational data.
-      Our goal is to eventually use all this data to learn more about
+    - Voice: Our goal is to eventually use all this data to learn more about
       yet unknown asteroids.
-- Machine learning
-    - Video: Other working video
-    - Voice: Machine learning allows us to automate this process by training an
-      algorithm to characterise these asteroids for us.
 - Conclusion
     - Video: Asteroid field, solar system or similar
     - Voice: Ascavis will enable a much clearer overview of our immediate

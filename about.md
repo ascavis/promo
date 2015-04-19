@@ -73,6 +73,12 @@ idea is on one hand to support scientists with our generated data and on the
 other to provide a tool for amateurs that opens up the field of asteroid
 science for them in an explorative way via visually browsing our web app.
 
+To provide a responsive user interface orbit calculations are done within the
+browser itself and asteroid data is fetched from the backend in an
+asynchronous manner. This was achieved by using web technologies like HTML5,
+AJAX and WebGL so that the only requirement for the user is a modern web
+browser.
+
 
 # Conclusion
 
